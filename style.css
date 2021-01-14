@@ -108,7 +108,7 @@ nav img{
 }
 
 .cartoon-logo{
-    width: 599px;
+    width: 550px;
 }
 
 
@@ -116,3 +116,12 @@ nav img{
 
     margin-right: 10%;
 }
+
+@media (max-width: 600px){
+    .cartoon-logo{
+        width:390px;
+    }
+    
+}
+
+
