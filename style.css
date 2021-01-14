@@ -1,0 +1,61 @@
+
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+nav img{
+    width: 291px;
+}
+
+.custom-nav{
+    color: #3C3C3C;
+}
+
+.logo-img{
+    margin-right: 550px;
+}
+
+@media (max-width: 600px){
+    .logo-img{
+        margin-right: 0px;
+        
+    }
+}
+
+.buy-now{
+    color: white;
+    padding: 15px 25px;
+    border-radius: 8px;
+    background-color: #A4BC46;
+    text-decoration: none;
+
+   
+}
+.button-div{
+    width: 450px;
+    margin-top: 80px;
+}
+.image-div img{
+    width: 440px;
+}
+.image-div{
+    width: 450px;
+    
+}
+
+
+.button-div{
+    float: left;
+}
+
+.image-div{
+    float: right;
+    margin-right: 140px;
+}
+
+@media (max-width: 600px){
+    .image-div{
+        float: right;
+        margin-right: 0px;
+    }
+}
