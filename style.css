@@ -12,7 +12,7 @@ nav img{
 }
 
 .logo-img{
-    margin-right: 550px;
+    margin-right: 400px;
 }
 
 @media (max-width: 600px){
@@ -25,7 +25,7 @@ nav img{
 }
 
 @media (max-width: 600px){
-    .buy-now{
+    .buy-now-responsive{
         color: white;
         padding: 25px 45px;
         border-radius: 8px;
@@ -94,4 +94,25 @@ nav img{
 
 .card-btn{
     padding-left: 0;
+}
+
+.woman-jacket{
+    height: 650px;
+    margin-bottom: 60px;
+}
+
+.man-jacket img{
+    width: 293px;
+    height: 350px;
+    margin-left: 30px;
+}
+
+.cartoon-logo{
+    width: 599px;
+}
+
+
+.last-logo{
+
+    margin-right: 10%;
 }
